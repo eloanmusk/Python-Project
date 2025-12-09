@@ -1,7 +1,8 @@
-Restaurant CLI App
+**Restaurant CLI App**
 
 A simple Python command-line program that lets users select items from a menu, add or remove items, view their current order, and checkout.
-Features
+
+**Features**
 
 View a restaurant menu
 
@@ -14,7 +15,7 @@ View current order and total price
 Checkout with a customer name
 
 
-Requirements
+**Requirements**
 
 Python 3.x
 
